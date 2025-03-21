@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pandas
+faiss-cpu
+sentence-transformers
+transformers
